@@ -21,6 +21,28 @@ elf_destiny_fallen_eagle_on_game_start = {
 			create_vanas_foeglass_effect = { OWNER = character:belanor_valerith_476 }
 		}
 
+		# Register Elf Great Houses
+		set_global_variable = {
+			name = house_gwynthorn 
+			value = character:galanoriel_gwynthorn_361.dynasty
+		}
+		set_global_variable = {
+			name = house_daelurin
+			value = character:galvin_daelurin_361.dynasty
+		}
+		set_global_variable = {
+			name = house_serelion
+			value = character:meldona_serelion_361.dynasty
+		}
+		set_global_variable = {
+			name = house_thundarael
+			value = character:nictheras_thundarael_361.dynasty
+		}
+		set_global_variable = {
+			name = house_valerith
+			value = character:seraphine_valerith_361.dynasty
+		}
+
 
 
 		# LANDLESS CAMP SETUP
@@ -45,6 +67,29 @@ elf_destiny_fallen_eagle_on_game_start = {
 		character:aubrey_serelion_476 = {
 			add_courtier = character:cain_serelion_476
 			add_courtier = character:anatole_serelion_476
+		}
+
+
+		if = {
+			limit = {
+				exists = character:seraphine_valerith_361
+			}
+			character:seraphine_valerith_361 = {
+				create_elf_kingdom_effect = yes
+
+				set_aeluran_matriarch_to_feyswood_vassal = yes
+			}
+		}
+
+		if = {
+			limit = {
+				exists = character:seraphine_valerith_476
+			}
+			character:seraphine_valerith_476 = {
+				create_elf_kingdom_effect = yes
+
+				set_aeluran_matriarch_to_feyswood_vassal = yes
+			}
 		}
 	}
 }

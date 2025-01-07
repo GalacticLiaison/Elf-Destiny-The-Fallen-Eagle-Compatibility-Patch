@@ -1,0 +1,11 @@
+﻿
+d_high_matriarch = {
+	360.1.1={
+		holder = elandra_thalwyn_361
+		government = aeluran_weavers_government
+	}
+	475.1.1={
+		holder = elandra_thalwyn_476
+		government = aeluran_weavers_government
+	}
+}
