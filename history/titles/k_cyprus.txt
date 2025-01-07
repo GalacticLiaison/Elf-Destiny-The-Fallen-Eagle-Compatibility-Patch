@@ -1,0 +1,44 @@
+﻿
+k_cyprus = {
+}
+
+
+d_cyprus = {
+	361.1.1 = { change_development_level = 4 }
+	476.1.1 = { change_development_level = 5 }
+	532.1.1 = { change_development_level = 6 }
+	768.1.1 = { change_development_level = 7 }
+	360.1.1 = {
+		liege = e_roman_empire
+		holder = julius_serelion_361
+		government = tribal_government
+	}
+	475.1.1 = {
+		holder = julius_serelion_476
+	}
+}
+
+
+c_nicosia = {
+	360.1.1 = {
+		liege = "d_cyprus"
+		holder = julius_serelion_361
+		government = tribal_government
+	}
+	475.1.1 = {
+		holder = julius_serelion_476
+	}
+}
+
+
+c_famagusta = {
+	360.1.1 = {
+		liege = "d_cyprus"
+		holder = marco_serelion_361
+		government = tribal_government
+	}
+	475.1.1 = {
+		holder = marco_serelion_476
+	}
+}
+

@@ -1,0 +1,869 @@
+﻿character_is_faelyn_valerith = {
+	OR = {
+		AND = {
+			exists = character:faelyn_valerith_361
+			this = character:faelyn_valerith_361
+		}
+		AND = {
+			exists = character:faelyn_valerith_476
+			this = character:faelyn_valerith_476
+		}
+	}
+}
+
+character_is_seraphine_valerith = {
+	OR = {
+		AND = {
+			exists = character:seraphine_valerith_361
+			this = character:seraphine_valerith_361
+		}
+		AND = {
+			exists = character:seraphine_valerith_476
+			this = character:seraphine_valerith_476
+		}
+	}
+}
+
+character_is_lia_valerith = {
+	OR = {
+		AND = {
+			exists = character:lia_valerith_361
+			this = character:lia_valerith_361
+		}
+		AND = {
+			exists = character:lia_valerith_476
+			this = character:lia_valerith_476
+		}
+	}
+}
+
+character_is_hannah_valerith = {
+	OR = {
+		AND = {
+			exists = character:hannah_valerith_361
+			this = character:hannah_valerith_361
+		}
+		AND = {
+			exists = character:hannah_valerith_476
+			this = character:hannah_valerith_476
+		}
+	}
+}
+
+character_is_victaris_valerith = {
+	OR = {
+		AND = {
+			exists = character:victaris_valerith_361
+			this = character:victaris_valerith_361
+		}
+		AND = {
+			exists = character:victaris_valerith_476
+			this = character:victaris_valerith_476
+		}
+	}
+}
+
+character_is_belanor_valerith = {
+	OR = {
+		AND = {
+			exists = character:belanor_valerith_361
+			this = character:belanor_valerith_361
+		}
+		AND = {
+			exists = character:belanor_valerith_476
+			this = character:belanor_valerith_476
+		}
+	}
+}
+
+character_is_virion_valerith = {
+	OR = {
+		AND = {
+			exists = character:virion_valerith_361
+			this = character:virion_valerith_361
+		}
+		AND = {
+			exists = character:virion_valerith_476
+			this = character:virion_valerith_476
+		}
+	}
+}
+
+character_is_niala_valerith = {
+	OR = {
+		AND = {
+			exists = character:niala_valerith_361
+			this = character:niala_valerith_361
+		}
+		AND = {
+			exists = character:niala_valerith_476
+			this = character:niala_valerith_476
+		}
+	}
+}
+
+character_is_calmera_thalwyn = {
+	OR = {
+		AND = {
+			exists = character:calmera_thalwyn_361
+			this = character:calmera_thalwyn_361
+		}
+		AND = {
+			exists = character:calmera_thalwyn_476
+			this = character:calmera_thalwyn_476
+		}
+	}
+}
+
+character_is_ganduin_daelurin = {
+	OR = {
+		AND = {
+			exists = character:ganduin_daelurin_361
+			this = character:ganduin_daelurin_361
+		}
+		AND = {
+			exists = character:ganduin_daelurin_476
+			this = character:ganduin_daelurin_476
+		}
+	}
+}
+
+character_is_galvin_daelurin = {
+	OR = {
+		AND = {
+			exists = character:galvin_daelurin_361
+			this = character:galvin_daelurin_361
+		}
+		AND = {
+			exists = character:galvin_daelurin_476
+			this = character:galvin_daelurin_476
+		}
+	}
+}
+
+character_is_faldrin_daelurin = {
+	OR = {
+		AND = {
+			exists = character:faldrin_daelurin_361
+			this = character:faldrin_daelurin_361
+		}
+		AND = {
+			exists = character:faldrin_daelurin_476
+			this = character:faldrin_daelurin_476
+		}
+	}
+}
+
+character_is_thaleia_daelurin = {
+	OR = {
+		AND = {
+			exists = character:thaleia_daelurin_361
+			this = character:thaleia_daelurin_361
+		}
+		AND = {
+			exists = character:thaleia_daelurin_476
+			this = character:thaleia_daelurin_476
+		}
+	}
+}
+
+character_is_delwyn_daelurin = {
+	OR = {
+		AND = {
+			exists = character:delwyn_daelurin_361
+			this = character:delwyn_daelurin_361
+		}
+		AND = {
+			exists = character:delwyn_daelurin_476
+			this = character:delwyn_daelurin_476
+		}
+	}
+}
+
+character_is_nienor_daelurin = {
+	OR = {
+		AND = {
+			exists = character:nienor_daelurin_361
+			this = character:nienor_daelurin_361
+		}
+		AND = {
+			exists = character:nienor_daelurin_476
+			this = character:nienor_daelurin_476
+		}
+	}
+}
+
+character_is_vyatki_daelurin = {
+	OR = {
+		AND = {
+			exists = character:vyatki_daelurin_361
+			this = character:vyatki_daelurin_361
+		}
+		AND = {
+			exists = character:vyatki_daelurin_476
+			this = character:vyatki_daelurin_476
+		}
+	}
+}
+
+character_is_elros_daelurin = {
+	OR = {
+		AND = {
+			exists = character:elros_daelurin_361
+			this = character:elros_daelurin_361
+		}
+		AND = {
+			exists = character:elros_daelurin_476
+			this = character:elros_daelurin_476
+		}
+	}
+}
+
+character_is_myrddin_wyltt = {
+	OR = {
+		AND = {
+			exists = character:myrddin_wyltt_361
+			this = character:myrddin_wyltt_361
+		}
+		AND = {
+			exists = character:myrddin_wyltt_476
+			this = character:myrddin_wyltt_476
+		}
+	}
+}
+
+character_is_angbor_morozov = {
+	OR = {
+		AND = {
+			exists = character:angbor_morozov_361
+			this = character:angbor_morozov_361
+		}
+		AND = {
+			exists = character:angbor_morozov_476
+			this = character:angbor_morozov_476
+		}
+	}
+}
+
+character_is_rhozinna_morozov = {
+	OR = {
+		AND = {
+			exists = character:rhozinna_morozov_361
+			this = character:rhozinna_morozov_361
+		}
+		AND = {
+			exists = character:rhozinna_morozov_476
+			this = character:rhozinna_morozov_476
+		}
+	}
+}
+
+character_is_chezic_morozov = {
+	OR = {
+		AND = {
+			exists = character:chezic_morozov_361
+			this = character:chezic_morozov_361
+		}
+		AND = {
+			exists = character:chezic_morozov_476
+			this = character:chezic_morozov_476
+		}
+	}
+}
+
+character_is_zorya_morozov = {
+	OR = {
+		AND = {
+			exists = character:zorya_morozov_361
+			this = character:zorya_morozov_361
+		}
+		AND = {
+			exists = character:zorya_morozov_476
+			this = character:zorya_morozov_476
+		}
+	}
+}
+
+character_is_balin_morozov = {
+	OR = {
+		AND = {
+			exists = character:balin_morozov_361
+			this = character:balin_morozov_361
+		}
+		AND = {
+			exists = character:balin_morozov_476
+			this = character:balin_morozov_476
+		}
+	}
+}
+
+character_is_kallyna_morozov = {
+	OR = {
+		AND = {
+			exists = character:kallyna_morozov_361
+			this = character:kallyna_morozov_361
+		}
+		AND = {
+			exists = character:kallyna_morozov_476
+			this = character:kallyna_morozov_476
+		}
+	}
+}
+
+character_is_daleana_morozov = {
+	OR = {
+		AND = {
+			exists = character:daleana_morozov_361
+			this = character:daleana_morozov_361
+		}
+		AND = {
+			exists = character:daleana_morozov_476
+			this = character:daleana_morozov_476
+		}
+	}
+}
+
+character_is_evania_morozov = {
+	OR = {
+		AND = {
+			exists = character:evania_morozov_361
+			this = character:evania_morozov_361
+		}
+		AND = {
+			exists = character:evania_morozov_476
+			this = character:evania_morozov_476
+		}
+	}
+}
+
+character_is_galanoriel_gwynthorn = {
+	OR = {
+		AND = {
+			exists = character:galanoriel_gwynthorn_361
+			this = character:galanoriel_gwynthorn_361
+		}
+		AND = {
+			exists = character:galanoriel_gwynthorn_476
+			this = character:galanoriel_gwynthorn_476
+		}
+	}
+}
+
+character_is_gaston_gwynthorn = {
+	OR = {
+		AND = {
+			exists = character:gaston_gwynthorn_361
+			this = character:gaston_gwynthorn_361
+		}
+		AND = {
+			exists = character:gaston_gwynthorn_476
+			this = character:gaston_gwynthorn_476
+		}
+	}
+}
+
+character_is_elisandra_gwynthorn = {
+	OR = {
+		AND = {
+			exists = character:elisandra_gwynthorn_361
+			this = character:elisandra_gwynthorn_361
+		}
+		AND = {
+			exists = character:elisandra_gwynthorn_476
+			this = character:elisandra_gwynthorn_476
+		}
+	}
+}
+
+character_is_gwynda_gwynthorn = {
+	OR = {
+		AND = {
+			exists = character:gwynda_gwynthorn_361
+			this = character:gwynda_gwynthorn_361
+		}
+		AND = {
+			exists = character:gwynda_gwynthorn_476
+			this = character:gwynda_gwynthorn_476
+		}
+	}
+}
+
+character_is_seldric_gwynthorn = {
+	OR = {
+		AND = {
+			exists = character:seldric_gwynthorn_361
+			this = character:seldric_gwynthorn_361
+		}
+		AND = {
+			exists = character:seldric_gwynthorn_476
+			this = character:seldric_gwynthorn_476
+		}
+	}
+}
+
+character_is_selana_gwynthorn = {
+	OR = {
+		AND = {
+			exists = character:selana_gwynthorn_361
+			this = character:selana_gwynthorn_361
+		}
+		AND = {
+			exists = character:selana_gwynthorn_476
+			this = character:selana_gwynthorn_476
+		}
+	}
+}
+
+character_is_eiman_gwynthorn = {
+	OR = {
+		AND = {
+			exists = character:eiman_gwynthorn_361
+			this = character:eiman_gwynthorn_361
+		}
+		AND = {
+			exists = character:eiman_gwynthorn_476
+			this = character:eiman_gwynthorn_476
+		}
+	}
+}
+
+character_is_marilayne_gwynthorn = {
+	OR = {
+		AND = {
+			exists = character:marilayne_gwynthorn_361
+			this = character:marilayne_gwynthorn_361
+		}
+		AND = {
+			exists = character:marilayne_gwynthorn_476
+			this = character:marilayne_gwynthorn_476
+		}
+	}
+}
+
+character_is_amelya_verlline = {
+	OR = {
+		AND = {
+			exists = character:amelya_verlline_361
+			this = character:amelya_verlline_361
+		}
+		AND = {
+			exists = character:amelya_verlline_476
+			this = character:amelya_verlline_476
+		}
+	}
+}
+
+character_is_emeryana_gwynthorn = {
+	OR = {
+		AND = {
+			exists = character:emeryana_gwynthorn_361
+			this = character:emeryana_gwynthorn_361
+		}
+		AND = {
+			exists = character:emeryana_gwynthorn_476
+			this = character:emeryana_gwynthorn_476
+		}
+	}
+}
+
+character_is_earan_gwynthorn = {
+	OR = {
+		AND = {
+			exists = character:earan_gwynthorn_361
+			this = character:earan_gwynthorn_361
+		}
+		AND = {
+			exists = character:earan_gwynthorn_476
+			this = character:earan_gwynthorn_476
+		}
+	}
+}
+
+character_is_elowyn_greenwood = {
+	OR = {
+		AND = {
+			exists = character:elowyn_greenwood_361
+			this = character:elowyn_greenwood_361
+		}
+		AND = {
+			exists = character:elowyn_greenwood_476
+			this = character:elowyn_greenwood_476
+		}
+	}
+}
+
+character_is_emera_gwynthorn = {
+	OR = {
+		AND = {
+			exists = character:emera_gwynthorn_361
+			this = character:emera_gwynthorn_361
+		}
+		AND = {
+			exists = character:emera_gwynthorn_476
+			this = character:emera_gwynthorn_476
+		}
+	}
+}
+
+character_is_haiveloc_verlline = {
+	OR = {
+		AND = {
+			exists = character:haiveloc_verlline_361
+			this = character:haiveloc_verlline_361
+		}
+		AND = {
+			exists = character:haiveloc_verlline_476
+			this = character:haiveloc_verlline_476
+		}
+	}
+}
+
+character_is_rheddyr_verlline = {
+	OR = {
+		AND = {
+			exists = character:rheddyr_verlline_361
+			this = character:rheddyr_verlline_361
+		}
+		AND = {
+			exists = character:rheddyr_verlline_476
+			this = character:rheddyr_verlline_476
+		}
+	}
+}
+
+character_is_rebecca_verlline = {
+	OR = {
+		AND = {
+			exists = character:rebecca_verlline_361
+			this = character:rebecca_verlline_361
+		}
+		AND = {
+			exists = character:rebecca_verlline_476
+			this = character:rebecca_verlline_476
+		}
+	}
+}
+
+character_is_julius_serelion = {
+	OR = {
+		AND = {
+			exists = character:julius_serelion_361
+			this = character:julius_serelion_361
+		}
+		AND = {
+			exists = character:julius_serelion_476
+			this = character:julius_serelion_476
+		}
+	}
+}
+
+character_is_marco_serelion = {
+	OR = {
+		AND = {
+			exists = character:marco_serelion_361
+			this = character:marco_serelion_361
+		}
+		AND = {
+			exists = character:marco_serelion_476
+			this = character:marco_serelion_476
+		}
+	}
+}
+
+character_is_saevel_serelion = {
+	OR = {
+		AND = {
+			exists = character:saevel_serelion_361
+			this = character:saevel_serelion_361
+		}
+		AND = {
+			exists = character:saevel_serelion_476
+			this = character:saevel_serelion_476
+		}
+	}
+}
+
+character_is_selene_serelion = {
+	OR = {
+		AND = {
+			exists = character:selene_serelion_361
+			this = character:selene_serelion_361
+		}
+		AND = {
+			exists = character:selene_serelion_476
+			this = character:selene_serelion_476
+		}
+	}
+}
+
+character_is_meldona_serelion = {
+	OR = {
+		AND = {
+			exists = character:meldona_serelion_361
+			this = character:meldona_serelion_361
+		}
+		AND = {
+			exists = character:meldona_serelion_476
+			this = character:meldona_serelion_476
+		}
+	}
+}
+
+character_is_cain_serelion = {
+	OR = {
+		AND = {
+			exists = character:cain_serelion_361
+			this = character:cain_serelion_361
+		}
+		AND = {
+			exists = character:cain_serelion_476
+			this = character:cain_serelion_476
+		}
+	}
+}
+
+character_is_anatole_serelion = {
+	OR = {
+		AND = {
+			exists = character:anatole_serelion_361
+			this = character:anatole_serelion_361
+		}
+		AND = {
+			exists = character:anatole_serelion_476
+			this = character:anatole_serelion_476
+		}
+	}
+}
+
+character_is_antigoni_serelion = {
+	OR = {
+		AND = {
+			exists = character:antigoni_serelion_361
+			this = character:antigoni_serelion_361
+		}
+		AND = {
+			exists = character:antigoni_serelion_476
+			this = character:antigoni_serelion_476
+		}
+	}
+}
+
+character_is_sofia_serelion = {
+	OR = {
+		AND = {
+			exists = character:sofia_serelion_361
+			this = character:sofia_serelion_361
+		}
+		AND = {
+			exists = character:sofia_serelion_476
+			this = character:sofia_serelion_476
+		}
+	}
+}
+
+character_is_kylie_serelion = {
+	OR = {
+		AND = {
+			exists = character:kylie_serelion_361
+			this = character:kylie_serelion_361
+		}
+		AND = {
+			exists = character:kylie_serelion_476
+			this = character:kylie_serelion_476
+		}
+	}
+}
+
+character_is_aubrey_serelion = {
+	OR = {
+		AND = {
+			exists = character:aubrey_serelion_361
+			this = character:aubrey_serelion_361
+		}
+		AND = {
+			exists = character:aubrey_serelion_476
+			this = character:aubrey_serelion_476
+		}
+	}
+}
+
+character_is_nictheras_thundarael = {
+	OR = {
+		AND = {
+			exists = character:nictheras_thundarael_361
+			this = character:nictheras_thundarael_361
+		}
+		AND = {
+			exists = character:nictheras_thundarael_476
+			this = character:nictheras_thundarael_476
+		}
+	}
+}
+
+character_is_nolan_thundarael = {
+	OR = {
+		AND = {
+			exists = character:nolan_thundarael_361
+			this = character:nolan_thundarael_361
+		}
+		AND = {
+			exists = character:nolan_thundarael_476
+			this = character:nolan_thundarael_476
+		}
+	}
+}
+
+character_is_lyra_thundarael = {
+	OR = {
+		AND = {
+			exists = character:lyra_thundarael_361
+			this = character:lyra_thundarael_361
+		}
+		AND = {
+			exists = character:lyra_thundarael_476
+			this = character:lyra_thundarael_476
+		}
+	}
+}
+
+character_is_elysia_thundarael = {
+	OR = {
+		AND = {
+			exists = character:elysia_thundarael_361
+			this = character:elysia_thundarael_361
+		}
+		AND = {
+			exists = character:elysia_thundarael_476
+			this = character:elysia_thundarael_476
+		}
+	}
+}
+
+character_is_arandur_thundarael = {
+	OR = {
+		AND = {
+			exists = character:arandur_thundarael_361
+			this = character:arandur_thundarael_361
+		}
+		AND = {
+			exists = character:arandur_thundarael_476
+			this = character:arandur_thundarael_476
+		}
+	}
+}
+
+character_is_heldrin_thundarael = {
+	OR = {
+		AND = {
+			exists = character:heldrin_thundarael_361
+			this = character:heldrin_thundarael_361
+		}
+		AND = {
+			exists = character:heldrin_thundarael_476
+			this = character:heldrin_thundarael_476
+		}
+	}
+}
+
+character_is_celestia_thundarael = {
+	OR = {
+		AND = {
+			exists = character:celestia_thundarael_361
+			this = character:celestia_thundarael_361
+		}
+		AND = {
+			exists = character:celestia_thundarael_476
+			this = character:celestia_thundarael_476
+		}
+	}
+}
+
+character_is_thrandire_thundarael = {
+	OR = {
+		AND = {
+			exists = character:thrandire_thundarael_361
+			this = character:thrandire_thundarael_361
+		}
+		AND = {
+			exists = character:thrandire_thundarael_476
+			this = character:thrandire_thundarael_476
+		}
+	}
+}
+
+character_is_tyria_thundarael = {
+	OR = {
+		AND = {
+			exists = character:tyria_thundarael_361
+			this = character:tyria_thundarael_361
+		}
+		AND = {
+			exists = character:tyria_thundarael_476
+			this = character:tyria_thundarael_476
+		}
+	}
+}
+
+character_is_taliana_thundarael = {
+	OR = {
+		AND = {
+			exists = character:taliana_thundarael_361
+			this = character:taliana_thundarael_361
+		}
+		AND = {
+			exists = character:taliana_thundarael_476
+			this = character:taliana_thundarael_476
+		}
+	}
+}
+
+character_is_freyja_thundarael = {
+	OR = {
+		AND = {
+			exists = character:freyja_thundarael_361
+			this = character:freyja_thundarael_361
+		}
+		AND = {
+			exists = character:freyja_thundarael_476
+			this = character:freyja_thundarael_476
+		}
+	}
+}
+
+character_is_adam_thundarael = {
+	OR = {
+		AND = {
+			exists = character:adam_thundarael_361
+			this = character:adam_thundarael_361
+		}
+		AND = {
+			exists = character:adam_thundarael_476
+			this = character:adam_thundarael_476
+		}
+	}
+}
+
+character_is_tulkas_astaldo = {
+	OR = {
+		AND = {
+			exists = character:tulkas_astaldo
+			this = character:tulkas_astaldo
+		}
+		this = {
+			has_character_flag = is_tulkas_astaldo
+		}
+	}
+}
+
+character_is_vana = {
+	OR = {
+		AND = {
+			exists = character:vana
+			this = character:vana
+		}
+		this = {
+			has_character_flag = is_vana
+		}
+	}
+}
+

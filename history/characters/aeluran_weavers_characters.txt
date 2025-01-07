@@ -1,0 +1,187 @@
+﻿calmera_thalwyn_361 = {
+	name = "Calmera"
+	# give_nickname = ""
+	dna = matron_calmera_thalwyn
+	female = yes
+	dynasty = 696969
+	martial = 10
+	diplomacy = 13
+	intrigue = 13
+	stewardship = 12
+	religion = "aeluran_weavers"
+	culture = "culture_elf"
+	trait = just
+	trait = temperate
+	trait = zealous
+	trait = education_diplomacy_4
+	trait = beauty_good_3
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = lifestyle_herbalist
+	trait = aeluran_matron
+	trait = magi
+	trait = born_in_the_red
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	# father = 20352
+	mother = elandra_thalwyn_361
+	
+	339.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	361.1.1 = {
+		effect = {
+			set_immortal_age = 20
+		}
+	}
+
+	475.1.1 = {
+		death = yes
+	}
+
+	#Decorated Dupatta
+}
+
+calmera_thalwyn_476 = {
+	name = "Calmera"
+	# give_nickname = ""
+	dna = matron_calmera_thalwyn
+	female = yes
+	dynasty = 696969
+	martial = 10
+	diplomacy = 13
+	intrigue = 13
+	stewardship = 12
+	religion = "aeluran_weavers"
+	culture = "culture_elf"
+	trait = just
+	trait = temperate
+	trait = zealous
+	trait = education_diplomacy_4
+	trait = beauty_good_3
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = lifestyle_herbalist
+	trait = aeluran_matron
+	trait = magi
+	trait = born_in_the_red
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	# father = 20352
+	mother = elandra_thalwyn_476
+	
+	454.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	476.1.1 = {
+		effect = {
+			set_immortal_age = 20
+		}
+	}
+
+	631.1.1 = {
+		death = yes
+	}
+
+	#Decorated Dupatta
+}
+
+
+elandra_thalwyn_361 = {
+	name = "Elandra"
+	# give_nickname = "Sorceress"
+	dna = matron_elandra_thalwyn
+	female = yes
+	dynasty = 696969
+	martial = 10
+	diplomacy = 15
+	intrigue = 15
+	stewardship = 12
+	religion = "aeluran_weavers"
+	culture = "culture_elf"
+	trait = calm
+	trait = patient
+	trait = zealous
+	trait = education_diplomacy_5
+	trait = beauty_good_3
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = shrewd
+	trait = lifestyle_mystic
+	trait = aeluran_high_matriarch
+	trait = magi
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	284.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_high_elf
+		}
+	}
+	290.1.1 = {
+		effect = {
+			set_immortal_age = 20
+		}
+	}
+	394.1.1 = {
+		death = yes
+	}
+}
+
+
+elandra_thalwyn_476 = {
+	name = "Elandra"
+	# give_nickname = "Sorceress"
+	dna = matron_elandra_thalwyn
+	female = yes
+	dynasty = 696969
+	martial = 10
+	diplomacy = 15
+	intrigue = 15
+	stewardship = 12
+	religion = "aeluran_weavers"
+	culture = "culture_elf"
+	trait = calm
+	trait = patient
+	trait = zealous
+	trait = education_diplomacy_5
+	trait = beauty_good_3
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = shrewd
+	trait = lifestyle_mystic
+	trait = aeluran_high_matriarch
+	trait = magi
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	399.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_high_elf
+		}
+	}
+	419.1.1 = {
+		effect = {
+			set_immortal_age = 20
+		}
+	}
+	631.1.1 = {
+		death = yes
+	}
+}

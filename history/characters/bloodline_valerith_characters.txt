@@ -1,0 +1,1040 @@
+﻿### Valerith ###
+galdrin_valerith_361 = {
+	name = "Galdrin"
+	dna = victaris_valerith
+	female = no
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 5
+	diplomacy = 17
+	intrigue = 13
+	stewardship = 5
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = arrogant
+	trait = lustful
+	trait = eccentric
+	trait = education_diplomacy_4
+	trait = beauty_good_3
+	trait = physique_good_2
+	trait = magic_talent_2
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	196.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	284.1.1 = {
+		death = yes
+	}
+}
+
+galdrin_valerith_476 = {
+	name = "Galdrin"
+	dna = victaris_valerith
+	female = no
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 5
+	diplomacy = 17
+	intrigue = 13
+	stewardship = 5
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = arrogant
+	trait = lustful
+	trait = eccentric
+	trait = education_diplomacy_4
+	trait = beauty_good_3
+	trait = physique_good_2
+	trait = magic_talent_2
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	362.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	399.1.1 = {
+		death = yes
+	}
+}
+
+faelyn_valerith_361 = {
+	name = "Faelyn"
+	dna = faelyn_valerith
+	female = no
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 5
+	diplomacy = 17
+	intrigue = 13
+	stewardship = 5
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = humble
+	trait = patient
+	trait = calm
+	trait = education_diplomacy_4
+	trait = beauty_good_1
+	trait = physique_good_2
+	trait = magic_talent_2
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = galdrin_valerith_361
+
+	259.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_high_elf
+		}
+	}
+
+	279.1.1 = {
+		add_spouse = aris_thundarael_361
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+faelyn_valerith_476 = {
+	name = "Faelyn"
+	dna = faelyn_valerith
+	female = no
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 5
+	diplomacy = 17
+	intrigue = 13
+	stewardship = 5
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = humble
+	trait = patient
+	trait = calm
+	trait = education_diplomacy_4
+	trait = beauty_good_1
+	trait = physique_good_2
+	trait = magic_talent_2
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = galdrin_valerith_476
+
+	374.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_high_elf
+		}
+	}
+
+	394.1.1 = {
+		add_spouse = aris_thundarael_476
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+felicity_valerith_361 = {
+	name = "Felicity"
+	dna = valindra_valerith
+	
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 10
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = calm
+	trait = diligent
+	trait = temperate
+	trait = education_diplomacy_4
+	trait = intellect_good_1
+	trait = beauty_good_3
+	trait = magic_talent_2
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = galdrin_valerith_361
+	
+	254.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 45
+			add_character_flag = race_high_elf
+		}
+	}
+
+	334.1.1 = {
+		death = yes
+	}
+}
+
+felicity_valerith_476 = {
+	name = "Felicity"
+	dna = valindra_valerith
+	
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 10
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = calm
+	trait = diligent
+	trait = temperate
+	trait = education_diplomacy_4
+	trait = intellect_good_1
+	trait = beauty_good_3
+	trait = magic_talent_2
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	370.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 45
+			add_character_flag = race_high_elf
+		}
+	}
+
+	450.1.1 = {
+		death = yes
+	}
+}
+
+
+seraphine_valerith_361 = {
+	name = "Seraphine"
+	dna = seraphine_valerith
+	female = yes
+	sexuality = bisexual
+	dynasty = 696970
+	martial = 7
+	diplomacy = 13
+	intrigue = 13
+	stewardship = 6
+	learning = 6
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = calm
+	trait = diligent
+	trait = eccentric
+	trait = education_intrigue_5
+	trait = beauty_good_3
+	trait = intellect_good_1
+	trait = magic_talent_2
+	trait = magi
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = enchantress
+	# trait = seducer
+	trait = aeluran_sister
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = victaris_valerith_361
+	mother = valindra_valerith_361
+	
+	342.1.1 = {
+		birth = yes
+		give_nickname = nick_the_enchantress
+		effect = {
+			add_character_flag = race_elf
+			add_character_flag = ignore_aeluran_clothes
+		}
+	}
+	451.1.1 = {
+		death = yes
+	}
+}
+
+seraphine_valerith_476 = {
+	name = "Seraphine"
+	dna = seraphine_valerith
+	female = yes
+	sexuality = bisexual
+	dynasty = 696970
+	martial = 7
+	diplomacy = 13
+	intrigue = 13
+	stewardship = 6
+	learning = 6
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = calm
+	trait = diligent
+	trait = eccentric
+	trait = education_intrigue_5
+	trait = beauty_good_3
+	trait = intellect_good_1
+	trait = magic_talent_2
+	trait = magi
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = enchantress
+	trait = aeluran_sister
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = victaris_valerith_476
+	mother = valindra_valerith_476
+	
+	457.1.1 = {
+		birth = yes
+		give_nickname = nick_the_enchantress		
+		effect = {
+			add_character_flag = race_elf
+			add_character_flag = ignore_aeluran_clothes
+		}
+	}
+	566.1.1 = {
+		death = yes
+	}
+}
+
+lia_valerith_361 = {
+	name = "Lia"
+	dna = lia_valerith
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 9
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = gregarious
+	trait = patient
+	trait = calm
+	trait = education_diplomacy_4
+	trait = beauty_good_3
+	trait = intellect_good_1
+	trait = magic_talent_1
+	trait = fecund
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = aeluran_sister
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = victaris_valerith_361
+	mother = valindra_valerith_361
+	
+	343.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	359.1.1 = {
+		employer = seraphine_valerith_361
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+lia_valerith_476 = {
+	name = "Lia"
+	dna = lia_valerith
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 9
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = gregarious
+	trait = patient
+	trait = calm
+	trait = education_diplomacy_4
+	trait = beauty_good_3
+	trait = intellect_good_1
+	trait = magic_talent_1
+	trait = fecund
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = aeluran_sister
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = victaris_valerith_476
+	mother = valindra_valerith_476
+	
+	458.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	474.1.1 = {
+		employer = seraphine_valerith
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+hannah_valerith_361 = {
+	name = "Hannah"
+	dna = hannah_valerith
+	female = yes
+	sexuality = bisexual
+	dynasty = 696970
+	martial = 9
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = patient
+	trait = humble
+	trait = eccentric
+	trait = education_learning_4
+	trait = beauty_good_3
+	trait = intellect_good_1
+	trait = magic_talent_1
+	trait = fecund
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = aeluran_sister
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = victaris_valerith_361
+	mother = valindra_valerith_361
+	
+	345.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	359.1.1 = {
+		employer = seraphine_valerith_361
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+hannah_valerith_476 = {
+	name = "Hannah"
+	dna = hannah_valerith
+	female = yes
+	sexuality = bisexual
+	dynasty = 696970
+	martial = 9
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = patient
+	trait = humble
+	trait = eccentric
+	trait = education_learning_4
+	trait = beauty_good_3
+	trait = intellect_good_1
+	trait = magic_talent_1
+	trait = fecund
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = aeluran_sister
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = victaris_valerith_476
+	mother = valindra_valerith_476
+	
+	460.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	475.1.1 = {
+		employer = seraphine_valerith_476
+	}
+}
+
+belanor_valerith_361 = {
+	name = "Belanor"
+	dna = hannah_valerith
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_vaeldrik
+	martial = 16
+	diplomacy = 10
+	intrigue = 16
+	stewardship = 8
+	learning = 8
+	prowess = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = vengeful
+	trait = impatient
+	trait = wrathful
+	trait = education_martial_4
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = bastard_founder
+	trait = strategist
+	trait = scarred
+	trait = one_eyed
+	trait = royal_elf_valerith
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = victaris_valerith_361
+	
+	339.1.1 = {
+		birth = yes
+		give_nickname = nick_the_black_dragon		
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	354.1.1 = {
+		add_spouse = selene_serelion_361
+		effect = {
+			set_relation_nemesis = {
+				reason = nemesis_disowned
+				target = character:victaris_valerith_361
+			}
+			set_relation_nemesis = {
+				reason = nemesis_stole_birthright
+				target = character:seraphine_valerith_361
+			}
+			set_relation_nemesis = {
+				reason = nemesis_evil_step_mother
+				target = character:valindra_valerith_361
+			}
+			set_relation_rival = { 
+				reason = nemesis_stole_birthright
+				target = character:hannah_valerith_361
+			}
+			add_pressed_claim = title:c_martyuba
+			add_pressed_claim = title:d_martyuba
+			set_relation_lover = character:selene_serelion_361
+		}
+	}
+
+	# 866.1.1 = {
+	# 	employer = 170146
+	# }
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+belanor_valerith_476 = {
+	name = "Belanor"
+	dna = hannah_valerith
+	female = no
+	sexuality = heterosexual
+	# dynasty = 696970
+	dynasty_house = house_vaeldrik
+	martial = 16
+	diplomacy = 10
+	intrigue = 16
+	stewardship = 8
+	learning = 8
+	prowess = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = vengeful
+	trait = impatient
+	trait = wrathful
+	trait = education_martial_4
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = strategist
+	trait = bastard_founder
+	trait = scarred
+	trait = one_eyed
+	trait = royal_elf_valerith
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = victaris_valerith_476
+	
+	454.1.1 = {
+		birth = yes
+		give_nickname = nick_the_black_dragon		
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	470.1.1 = {
+		add_spouse = selene_serelion_476
+		effect = {
+			set_relation_nemesis = {
+				reason = nemesis_disowned
+				target = character:victaris_valerith_476
+			}
+			set_relation_nemesis = {
+				reason = nemesis_stole_birthright
+				target = character:seraphine_valerith_476
+			}
+			set_relation_nemesis = {
+				reason = nemesis_evil_step_mother
+				target = character:valindra_valerith_476
+			}
+			set_relation_rival = { 
+				reason = nemesis_stole_birthright
+				target = character:hannah_valerith_476
+			}
+			add_pressed_claim = title:c_martyuba
+			add_pressed_claim = title:d_martyuba
+			set_relation_lover = character:selene_serelion_476
+		}
+	}
+
+	# 1065.1.1 = {
+	# 	employer = seraphine_valerith_476
+	# }
+}
+
+valindra_valerith_361 = {
+	name = "Valindra"
+	dna = valindra_valerith
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 7
+	diplomacy = 11
+	intrigue = 7
+	stewardship = 10
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = calm
+	trait = arrogant
+	trait = arbitrary
+	trait = education_diplomacy_4
+	trait = intellect_good_1
+	trait = beauty_good_3
+	trait = magic_talent_2
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = aeluran_matron
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = felicity_valerith_361
+	
+	323.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	359.1.1 = {
+		employer = seraphine_valerith_361
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+valindra_valerith_476 = {
+	name = "Valindra"
+	dna = valindra_valerith
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 7
+	diplomacy = 11
+	intrigue = 7
+	stewardship = 10
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = calm
+	trait = arrogant
+	trait = arbitrary
+	trait = education_diplomacy_4
+	trait = intellect_good_1
+	trait = beauty_good_3
+	trait = magic_talent_2
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = aeluran_matron
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = felicity_valerith_476
+
+	438.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	475.1.1 = {
+		employer = seraphine_valerith_476
+	}
+}
+
+victaris_valerith_361 = {
+	name = "Victaris"
+	dna = victaris_valerith
+	female = no
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 10
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = calm
+	trait = diligent
+	trait = temperate
+	trait = education_stewardship_4
+	trait = intellect_good_1
+	trait = beauty_good_1
+	trait = physique_good_2
+	trait = magic_talent_1
+	trait = fecund
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = felicity_valerith_361
+
+	319.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	344.1.1 = {
+		add_spouse = valindra_valerith_361
+	}
+
+	359.1.1 = {
+		employer = seraphine_valerith_361
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+victaris_valerith_476 = {
+	name = "Victaris"
+	dna = victaris_valerith
+	female = no
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 10
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = calm
+	trait = diligent
+	trait = temperate
+	trait = education_stewardship_4
+	trait = intellect_good_1
+	trait = beauty_good_1
+	trait = physique_good_2
+	trait = magic_talent_1
+	trait = fecund
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = felicity_valerith_476
+	
+	436.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	455.1.1 = {
+		add_spouse = valindra_valerith_476
+	}
+
+	475.1.1 = {
+		employer = seraphine_valerith_476
+	}
+}
+
+virion_valerith_361 = {
+	name = "Virion"
+	dna = virion_valerith
+	female = no
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 13
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 10
+	learning = 8
+	prowess = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = brave
+	trait = diligent
+	trait = just
+	trait = education_martial_4
+	trait = intellect_good_1
+	trait = beauty_good_2
+	trait = physique_good_2
+	trait = fecund
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = athletic
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = felicity_valerith_361
+
+	321.1.1 = {
+		birth = yes
+		give_nickname = nick_the_silver_dragon		
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_high_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+virion_valerith_476 = {
+	name = "Virion"
+	dna = virion_valerith
+	female = no
+	sexuality = heterosexual
+	dynasty = 696970
+	martial = 13
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 10
+	learning = 8
+	prowess = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = brave
+	trait = diligent
+	trait = just
+	trait = education_martial_4
+	trait = intellect_good_1
+	trait = beauty_good_2
+	trait = physique_good_2
+	trait = fecund
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = athletic
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = felicity_valerith_476
+
+	436.1.1 = {
+		birth = yes
+		give_nickname = nick_the_silver_dragon		
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_high_elf
+		}
+	}
+
+	474.1.1 = {
+		employer = seraphine_valerith_476
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+niala_valerith_361 = {
+	name = "Niala"
+	dna = niala_valerith
+	female = yes
+	sexuality = bisexual
+	dynasty = 696970
+	martial = 5
+	diplomacy = 17
+	intrigue = 13
+	stewardship = 5
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = lustful
+	trait = impatient
+	trait = gregarious
+	trait = education_diplomacy_2
+	trait = beauty_good_3
+	trait = dull
+	trait = magic_talent_1
+	trait = fecund
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = aeluran_sister
+	trait = rakish
+	trait = seducer
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = virion_valerith_361
+	
+	342.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	359.1.1 = {
+		employer = virion_valerith_361
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+niala_valerith_476 = {
+	name = "Niala"
+	dna = niala_valerith
+	female = yes
+	sexuality = bisexual
+	dynasty = 696970
+	martial = 5
+	diplomacy = 17
+	intrigue = 13
+	stewardship = 5
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_valerith"
+	trait = lustful
+	trait = impatient
+	trait = gregarious
+	trait = education_diplomacy_2
+	trait = beauty_good_3
+	trait = dull
+	trait = magic_talent_1
+	trait = fecund
+	trait = pure_blooded
+	trait = royal_elf_valerith
+	trait = aeluran_sister
+	trait = rakish
+	trait = seducer
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	father = virion_valerith_476
+	
+	457.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	474.1.1 = {
+		employer = virion_valerith_476
+	}
+
+	567.1.1 = {
+		death = yes
+	}
+}

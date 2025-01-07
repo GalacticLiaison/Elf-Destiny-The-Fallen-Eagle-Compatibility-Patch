@@ -1,0 +1,1955 @@
+﻿### Gwynthorn ###
+
+galdric_gwynthorn_361 = {
+	name = "Galdric"
+	dna = seldric_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = stubborn
+	trait = arrogant
+	trait = greedy
+	trait = education_stewardship_5
+	trait = physique_good_2
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = elven_immortality
+
+	trait = royal_elf_gwynthorn
+	
+	disallow_random_traits = yes
+
+	124.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	262.1.1 = {
+		death = yes
+	}
+}
+
+galdric_gwynthorn_476 = {
+	name = "Galdric"
+	dna = seldric_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = stubborn
+	trait = arrogant
+	trait = greedy
+	trait = education_stewardship_5
+	trait = physique_good_2
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = elven_immortality
+
+	trait = royal_elf_gwynthorn
+	
+	disallow_random_traits = yes
+
+	362.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	387.1.1 = {
+		death = yes
+	}
+}
+
+glamdrin_gwynthorn_361 = {
+	name = "Glamdrin"
+	dna = galanoriel_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 22
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = calm
+	trait = patient
+	trait = greedy
+	trait = education_stewardship_5
+	trait = intellect_good_3
+	trait = beauty_good_1
+	trait = shrewd
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = galdric_gwynthorn_361
+	
+	223.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_high_elf
+		}
+	}
+
+	319.1.1 = {
+		death = yes
+	}
+}
+
+glamdrin_gwynthorn_476 = {
+	name = "Glamdrin"
+	dna = galanoriel_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 22
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = calm
+	trait = patient
+	trait = greedy
+	trait = education_stewardship_5
+	trait = intellect_good_3
+	trait = beauty_good_1
+	trait = shrewd
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = galdric_gwynthorn_476
+	
+	362.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_high_elf
+		}
+	}
+
+	410.1.1 = {
+		death = yes
+	}
+}
+
+elanora_gwynthorn_361 = {
+	name = "Elanora"
+	dna = galanoriel_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 22
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = lustful
+	trait = brave
+	trait = greedy
+	trait = education_stewardship_5
+	trait = intellect_good_3
+	trait = beauty_good_1
+	trait = shrewd
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = galdric_gwynthorn_361
+	
+	243.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	317.1.1 = {
+		death = yes
+	}
+}
+
+elanora_gwynthorn_476 = {
+	name = "Elanora"
+	dna = galanoriel_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 22
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = lustful
+	trait = brave
+	trait = greedy
+	trait = education_stewardship_5
+	trait = intellect_good_3
+	trait = beauty_good_1
+	trait = shrewd
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = galdric_gwynthorn_476
+	
+	362.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	433.1.1 = {
+		death = yes
+	}
+}
+
+# ====== Historic Linking Characters ^^^^
+
+galanoriel_gwynthorn_361 = {
+	name = "Galanoriel"
+	dna = galanoriel_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 13
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = ambitious
+	trait = patient
+	trait = stubborn
+	trait = education_stewardship_5
+	trait = intellect_good_3
+	trait = beauty_good_1
+	trait = shrewd
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = aeluran_matron
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = glamdrin_gwynthorn_361
+	
+	305.1.1 = {
+		birth = yes
+		give_nickname = nick_the_golden_queen
+		effect = {
+			set_immortal_age = 35
+			add_character_flag = race_high_elf
+		}
+	}
+
+	414.1.1 = {
+		death = yes
+	}
+}
+
+galanoriel_gwynthorn_476 = {
+	name = "Galanoriel"
+	dna = galanoriel_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 13
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = ambitious
+	trait = patient
+	trait = stubborn
+	trait = education_stewardship_5
+	trait = intellect_good_3
+	trait = beauty_good_1
+	trait = shrewd
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = aeluran_matron
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = glamdrin_gwynthorn_476 
+	
+	420.1.1 = {
+		birth = yes
+		give_nickname = nick_the_golden_queen
+		effect = {
+			set_immortal_age = 35
+			add_character_flag = race_high_elf
+		}
+	}
+
+	530.1.1 = {
+		death = yes
+	}
+}
+
+eiman_gwynthorn_361 = {
+	name = "Eiman"
+	dna = eiman_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 12
+	diplomacy = 9
+	intrigue = 15
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = stubborn
+	trait = vengeful
+	trait = greedy
+	trait = education_stewardship_5
+	trait = intellect_good_3
+	trait = magic_talent_2
+	trait = beauty_good_1
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = glamdrin_gwynthorn_361
+
+	308.1.1 = {
+		birth = yes
+		give_nickname = ryumplstilkin
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_high_elf
+		}
+	}
+
+	360.1.1 = {
+		employer = galanoriel_gwynthorn_361
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+eiman_gwynthorn_476 = {
+	name = "Eiman"
+	dna = eiman_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 12
+	diplomacy = 9
+	intrigue = 15
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = stubborn
+	trait = vengeful
+	trait = greedy
+	trait = education_stewardship_5
+	trait = intellect_good_3
+	trait = magic_talent_2
+	trait = beauty_good_1
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = glamdrin_gwynthorn_476
+
+	424.1.1 = {
+		birth = yes
+		give_nickname = ryumplstilkin
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_high_elf
+		}
+	}
+
+	455.1.1 = {
+		employer = galanoriel_gwynthorn_476
+	}
+
+	567.1.1 = {
+		death = yes
+	}
+}
+
+marilayne_gwynthorn_361 = {
+	name = "Marilayne"
+	dna = marilayne_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 13
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = stubborn
+	trait = honest
+	trait = temperate
+	trait = education_stewardship_4
+	trait = physique_good_2
+	trait = beauty_good_1
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = glamdrin_gwynthorn_361
+	
+	309.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 25
+			add_character_flag = race_high_elf
+		}
+	}
+
+	414.1.1 = {
+		death = yes
+	}
+}
+
+marilayne_gwynthorn_476 = {
+	name = "Marilayne"
+	dna = marilayne_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 13
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = stubborn
+	trait = honest
+	trait = temperate
+	trait = education_stewardship_4
+	trait = physique_good_2
+	trait = beauty_good_1
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = glamdrin_gwynthorn_476
+	
+	424.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 25
+			add_character_flag = race_high_elf
+		}
+	}
+
+	529.1.1 = {
+		death = yes
+	}
+}
+
+fionn_gwynthorn_361 = {
+	name = "Fionn"
+	dna = seldric_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = twin
+	trait = stubborn
+	trait = ambitious
+	trait = greedy
+	trait = education_stewardship_5
+	trait = physique_good_1
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = elanora_gwynthorn_361
+
+	297.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 35
+			add_character_flag = race_elf
+		}
+	}
+
+	354.1.1 = {
+		death = yes
+	}
+}
+
+fionn_gwynthorn_476 = {
+	name = "Fionn"
+	dna = seldric_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = twin
+	trait = stubborn
+	trait = ambitious
+	trait = greedy
+	trait = education_stewardship_5
+	trait = physique_good_1
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = elanora_gwynthorn_476
+
+	412.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 35
+			add_character_flag = race_elf
+		}
+	}
+
+	469.1.1 = {
+		death = yes
+	}
+}
+
+gaston_gwynthorn_361 = {
+	name = "Gaston"
+	dna = gaston_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = vengeful
+	trait = lustful
+	trait = arrogant
+	trait = lifestyle_hunter
+	trait = education_martial_4
+	trait = physique_good_3
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = marilayne_gwynthorn
+	father = haiveloc_verlline
+	
+	324.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	334.1.1 = {
+		employer = haiveloc_verlline_361
+	}
+
+	449.1.1 = {
+		death = yes
+	}
+}
+
+gaston_gwynthorn_476 = {
+	name = "Gaston"
+	dna = gaston_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = vengeful
+	trait = lustful
+	trait = arrogant
+	trait = lifestyle_hunter
+	trait = education_martial_4
+	trait = physique_good_3
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = marilayne_gwynthorn_476
+	father = haiveloc_verlline_476
+	
+	441.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	455.1.1 = {
+		employer = haiveloc_verlline
+	}
+
+	565.1.1 = {
+		death = yes
+	}
+}
+
+# shauna_gwynthorn = {
+# 	name = "Shauna"
+# 	dna = selana_gwynthorn
+# 	female = yes
+# 	sexuality = heterosexual
+# 	dynasty = 696973
+# 	martial = 10
+# 	diplomacy = 9
+# 	intrigue = 10
+# 	stewardship = 19
+# 	learning = 13
+# 	religion = "aeluran_weavers"
+# 	culture = "elf_culture_gwynthorn"
+# 	trait = stubborn
+# 	trait = lustful
+# 	trait = greedy
+# 	trait = education_stewardship_5
+# 	trait = physique_good_1
+# 	trait = intellect_good_2
+# 	trait = magic_talent_1
+#
+# 	trait = royal_elf_gwynthorn
+# 	trait = aeluran_sister
+	
+# 	disallow_random_traits = yes
+# 	mother = galanoriel_gwynthorn
+	
+# 	831.1.1 = {
+# 		birth = yes
+# 	}
+
+# 	840.1.1 = {
+# 		employer = 163111
+# 	}
+
+# 	855.1.1 = {
+# 		death = yes
+# 	}
+# }
+
+# shauna_gwynthorn_476 = {
+# 	name = "Shauna"
+# 	dna = selana_gwynthorn
+# 	female = yes
+# 	sexuality = heterosexual
+# 	dynasty = 696973
+# 	martial = 10
+# 	diplomacy = 9
+# 	intrigue = 10
+# 	stewardship = 19
+# 	learning = 13
+# 	religion = "aeluran_weavers"
+# 	culture = "elf_culture_gwynthorn"
+# 	trait = stubborn
+# 	trait = lustful
+# 	trait = greedy
+# 	trait = education_stewardship_5
+# 	trait = physique_good_1
+# 	trait = intellect_good_2
+# 	trait = magic_talent_1
+#
+# 	trait = royal_elf_gwynthorn
+# 	trait = aeluran_sister
+	
+# 	disallow_random_traits = yes
+
+# 	mother = galanoriel_gwynthorn_476
+	
+# 	1030.1.1 = {
+# 		birth = yes
+# 	}
+
+# 	1045.1.1 = {
+# 		employer = 924 # c_dublin 1066
+# 	}
+
+# 	1055.1.1 = {
+# 		death = yes
+# 	}
+# }
+
+
+
+elisandra_gwynthorn_361 = {
+	name = "Elisandra"
+	dna = elisandra_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 15
+	diplomacy = 9
+	intrigue = 10
+	stewardship =10
+	learning = 7
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = bossy
+	trait = temperate
+	trait = just
+	trait = brave
+	# trait = education_stewardship_5
+	trait = beauty_good_1
+	trait = intellect_good_3
+	trait = physique_good_1
+	trait = magic_talent_1
+	trait = wild_oat
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = galanoriel_gwynthorn_361
+	father = fionn_gwynthorn_361
+	
+	356.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+elisandra_gwynthorn_476 = {
+	name = "Elisandra"
+	dna = elisandra_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 15
+	diplomacy = 9
+	intrigue = 10
+	stewardship =10
+	learning = 7
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = bossy
+	trait = temperate
+	trait = just
+	trait = brave
+	# trait = education_stewardship_5
+	trait = beauty_good_1
+	trait = intellect_good_3
+	trait = physique_good_1
+	trait = magic_talent_1
+	trait = wild_oat
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = galanoriel_gwynthorn_476
+	father = fionn_gwynthorn_476
+	
+	472.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	575.1.1 = {
+		death = yes
+	}
+}
+
+gwynda_gwynthorn_361 = {
+	name = "Gwynda"
+	dna = gwynda_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = temperate
+	trait = content
+	trait = greedy
+	trait = education_stewardship_5
+	trait = beauty_good_1
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = aeluran_sister
+	trait = magi
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = galanoriel_gwynthorn_361
+	father = fionn_gwynthorn_361
+	
+	342.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+gwynda_gwynthorn_476 = {
+	name = "Gwynda"
+	dna = gwynda_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 6
+	diplomacy = 13
+	intrigue = 15
+	stewardship = 16
+	learning = 6
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = temperate
+	trait = content
+	trait = greedy
+	trait = education_stewardship_5
+	trait = beauty_good_1
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = galanoriel_gwynthorn_476
+	father = fionn_gwynthorn_476
+	
+	460.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	575.1.1 = {
+		death = yes
+	}
+}
+
+seldric_gwynthorn_361 = {
+	name = "Seldric"
+	dna = seldric_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = twin
+	trait = stubborn
+	trait = ambitious
+	trait = greedy
+	trait = education_stewardship_5
+	trait = physique_good_1
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	
+	disallow_random_traits = yes
+	mother = galanoriel_gwynthorn_361
+	father = fionn_gwynthorn_361
+
+	345.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+seldric_gwynthorn_476 = {
+	name = "Seldric"
+	dna = seldric_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = twin
+	trait = stubborn
+	trait = ambitious
+	trait = greedy
+	trait = education_stewardship_5
+	trait = physique_good_1
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	
+	disallow_random_traits = yes
+
+	mother = galanoriel_gwynthorn_476
+	father = fionn_gwynthorn_476
+	
+	460.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	575.1.1 = {
+		death = yes
+	}
+}
+
+selana_gwynthorn_361 = {
+	name = "Selana"
+	dna = selana_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = twin
+	trait = stubborn
+	trait = ambitious
+	trait = greedy
+	trait = education_stewardship_5
+	trait = physique_good_1
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	trait = aeluran_sister
+	trait = magi
+	
+	disallow_random_traits = yes
+
+	mother = galanoriel_gwynthorn_361
+	father = fionn_gwynthorn_361
+	
+	345.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+selana_gwynthorn_476 = {
+	name = "Selana"
+	dna = selana_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = twin
+	trait = stubborn
+	trait = fickle
+	trait = greedy
+	trait = education_stewardship_5
+	trait = physique_good_1
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_gwynthorn
+	
+	disallow_random_traits = yes
+
+	mother = galanoriel_gwynthorn_476
+	father = fionn_gwynthorn_476
+	
+	460.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	575.1.1 = {
+		death = yes
+	}
+}
+
+edwin_gwynthorn_361 = {
+	name = "Edwin"
+	dna = earan_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = stubborn
+	trait = calm
+	trait = greedy
+	trait = education_stewardship_4
+	trait = beauty_good_2
+	trait = intellect_good_1
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = elanora_gwynthorn_361
+
+	310.1.1 = {
+		birth = yes		
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	355.1.1 = {
+		death = yes
+	}
+}
+
+edwin_gwynthorn_476 = {
+	name = "Edwin"
+	dna = earan_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = stubborn
+	trait = calm
+	trait = greedy
+	trait = education_stewardship_4
+	trait = beauty_good_2
+	trait = intellect_good_1
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = elanora_gwynthorn_476
+
+	425.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	470.1.1 = {
+		death = yes
+	}
+}
+
+elowyn_greenwood_361 = {
+	name = "Elowyn"
+	dna = elowyn_greenwood
+	female = yes
+	sexuality = heterosexual
+	# dynasty = 696973
+	martial = 5
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 8
+	learning = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = generous
+	trait = patient
+	trait = shy
+	trait = education_learning_3
+	trait = beauty_good_1
+	trait = intellect_good_1
+	trait = reclusive
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	324.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	340.1.1 = {
+		add_spouse = edwin_gwynthorn_361
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+elowyn_greenwood_476 = {
+	name = "Elowyn"
+	dna = elowyn_greenwood
+	female = yes
+	sexuality = heterosexual
+	# dynasty = 696973
+	martial = 5
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 8
+	learning = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = generous
+	trait = patient
+	trait = shy
+	trait = education_learning_3
+	trait = beauty_good_1
+	trait = intellect_good_1
+	trait = reclusive
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	439.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	455.1.1 = {
+		add_spouse = edwin_gwynthorn_476
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+earan_gwynthorn_361 = {
+	name = "Earan"
+	dna = earan_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = gregarious
+	trait = just
+	trait = greedy
+	trait = education_stewardship_4
+	trait = beauty_good_3
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = twin
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = edwin_gwynthorn_361
+	mother = elowyn_greenwood_361
+
+	341.1.1 = {
+		birth = yes
+		give_nickname = nick_the_just		
+		effect = {
+			add_character_flag = is_triplet
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+earan_gwynthorn_476 = {
+	name = "Earan"
+	dna = earan_gwynthorn
+	female = no
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = gregarious
+	trait = just
+	trait = greedy
+	trait = education_stewardship_4
+	trait = beauty_good_3
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = twin
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = edwin_gwynthorn_476
+	mother = elowyn_greenwood_476
+
+	456.1.1 = {
+		birth = yes
+		give_nickname = nick_the_just		
+		effect = {
+			add_character_flag = is_triplet
+			add_character_flag = race_elf
+		}
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+emeryana_gwynthorn_361 = {
+	name = "Emeryana"
+	dna = emeryana_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = gregarious
+	trait = lustful
+	trait = greedy
+	trait = education_stewardship_4
+	trait = beauty_good_3
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = twin
+	trait = magi
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = edwin_gwynthorn_361
+	mother = elowyn_greenwood_361
+
+	341.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = is_triplet
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+emeryana_gwynthorn_476 = {
+	name = "Emeryana"
+	dna = emeryana_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = gregarious
+	trait = lustful
+	trait = greedy
+	trait = education_stewardship_4
+	trait = beauty_good_3
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = twin
+	trait = magi
+	trait = aeluran_sister
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+	father = edwin_gwynthorn_476
+	mother = elowyn_greenwood_476
+
+	456.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = is_triplet
+			add_character_flag = race_elf
+		}
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+emera_gwynthorn_361 = {
+	name = "Emera"
+	dna = emera_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = gregarious
+	trait = calm
+	trait = greedy
+	trait = education_stewardship_4
+	trait = beauty_good_3
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = twin
+	trait = magi
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = edwin_gwynthorn_361
+	mother = elowyn_greenwood_361
+
+	341.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = is_triplet
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+emera_gwynthorn_476 = {
+	name = "Emera"
+	dna = emera_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696973
+	martial = 10
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 19
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = gregarious
+	trait = calm
+	trait = greedy
+	trait = education_stewardship_4
+	trait = beauty_good_3
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = twin
+	trait = magi
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = edwin_gwynthorn_476
+	mother = elowyn_greenwood_476
+
+	456.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = is_triplet
+			add_character_flag = race_elf
+		}
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+haggert_verlline_361 = { # Connector dead parent
+	name = "Haggert"
+	dna = haiveloc_verlline
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 10
+	diplomacy = 9
+	intrigue = 11
+	stewardship = 17
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = greedy
+	trait = arrogant
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = intellect_bad_1
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	186.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	349.1.1 = {
+		death = yes
+	}
+}
+
+haggert_verlline_476 = { # Connector dead parent
+	name = "Haggert"
+	dna = haiveloc_verlline
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 10
+	diplomacy = 9
+	intrigue = 11
+	stewardship = 17
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = greedy
+	trait = arrogant
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = intellect_bad_1
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	362.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	464.1.1 = {
+		death = yes
+	}
+}
+
+haiveloc_verlline_361 = {
+	name = "Haiveloc"
+	dna = haiveloc_verlline
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 10
+	diplomacy = 9
+	intrigue = 11
+	stewardship = 17
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = calm
+	trait = patient
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = haggert_verlline_361
+
+	294.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+haiveloc_verlline_476 = {
+	name = "Haiveloc"
+	dna = haiveloc_verlline
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 10
+	diplomacy = 9
+	intrigue = 11
+	stewardship = 17
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = calm
+	trait = patient
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = haggert_verlline_476
+
+	410.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+rheddyr_verlline_361 = {
+	name = "Rheddyr"
+	dna = rheddyr_verlline
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 11
+	diplomacy = 9
+	intrigue = 6
+	stewardship = 8
+	learning = 6
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = brave
+	trait = vengeful
+	trait = impatient
+	trait = education_martial_3
+	trait = physique_good_3
+	trait = royal_elf_gwynthorn
+	trait = reckless
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = haggert_verlline_361
+
+	309.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	349.1.1 = {
+		effect = {
+			set_relation_rival = character:haiveloc_verlline_361
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+rheddyr_verlline_476 = {
+	name = "Rheddyr"
+	dna = rheddyr_verlline
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 11
+	diplomacy = 9
+	intrigue = 6
+	stewardship = 8
+	learning = 6
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = brave
+	trait = vengeful
+	trait = impatient
+	trait = education_martial_3
+	trait = physique_good_3
+	trait = royal_elf_gwynthorn
+	trait = reckless
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = haggert_verlline_476
+
+	424.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	464.1.1 = {
+		effect = {
+			set_relation_rival = character:haiveloc_verlline_476
+		}
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+rebecca_verlline_361 = {
+	name = "Rebecca"
+	dna = rebecca_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 10
+	diplomacy = 9
+	intrigue = 7
+	stewardship = 11
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = diligent
+	trait = impatient
+	trait = eccentric
+	trait = education_stewardship_4
+	trait = beauty_good_2
+	trait = royal_elf_gwynthorn
+	trait = scholar
+	
+	disallow_random_traits = yes
+	father = haggert_verlline_361
+	
+	344.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	461.1.1 = {
+		death = yes
+	}
+}
+
+rebecca_verlline_476 = {
+	name = "Rebecca"
+	dna = rebecca_gwynthorn
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 10
+	diplomacy = 9
+	intrigue = 7
+	stewardship = 11
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = diligent
+	trait = impatient
+	trait = eccentric
+	trait = education_stewardship_4
+	trait = beauty_good_2
+	trait = royal_elf_gwynthorn
+	trait = scholar
+	
+	disallow_random_traits = yes
+	father = haggert_verlline_476
+	
+	459.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	576.1.1 = {
+		death = yes
+	}
+}
+
+amelya_verlline_361 = {
+	name = "Amelya"
+	dna = amelya_verlline
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 6
+	diplomacy = 11
+	intrigue = 7
+	stewardship = 9
+	learning = 7
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = honest
+	trait = temperate
+	trait = compassionate
+	trait = education_diplomacy_3
+	trait = beauty_good_3
+	trait = intellect_good_1
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = marilayne_gwynthorn_361
+	father = haiveloc_verlline_361
+	
+	343.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	461.1.1 = {
+		death = yes
+	}
+}
+
+amelya_verlline_476 = {
+	name = "Amelya"
+	dna = amelya_verlline
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 6
+	diplomacy = 11
+	intrigue = 7
+	stewardship = 9
+	learning = 7
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = honest
+	trait = temperate
+	trait = compassionate
+	trait = education_diplomacy_3
+	trait = beauty_good_3
+	trait = intellect_good_1
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = marilayne_gwynthorn_476
+	father = haiveloc_verlline_476
+	
+	458.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	576.1.1 = {
+		death = yes
+	}
+}
+
+byrice_verlline_361 = {
+	name = "Byrice"
+	dna = byrice_verlline
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 10
+	diplomacy = 9
+	intrigue = 11
+	stewardship = 17
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = calm
+	trait = patient
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = haggert_verlline_361
+
+	274.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	294.1.1 = {
+		
+	}
+
+	319.1.1 = {
+		death = yes
+	}
+}
+
+byrice_verlline_476 = {
+	name = "Byrice"
+	dna = byrice_verlline
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_verlline
+
+	martial = 10
+	diplomacy = 9
+	intrigue = 11
+	stewardship = 17
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_gwynthorn"
+	trait = calm
+	trait = patient
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = magic_talent_2
+	trait = royal_elf_gwynthorn
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = haggert_verlline_476
+
+	389.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	434.1.1 = {
+		death = yes
+	}
+}

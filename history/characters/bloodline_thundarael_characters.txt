@@ -1,0 +1,1573 @@
+﻿tanis_thundarael_361 = {
+	name = "Tanis"
+	dna = nictheras_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 15
+	intrigue = 9
+	stewardship = 10
+	learning = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = diligent
+	trait = just
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	94.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_high_elf
+		}
+	}
+
+	224.1.1 = {
+		death = yes
+	}
+}
+
+tanis_thundarael_476 = {
+	name = "Tanis"
+	dna = nictheras_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 15
+	intrigue = 9
+	stewardship = 10
+	learning = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = diligent
+	trait = just
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	362.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_high_elf
+		}
+	}
+
+	392.1.1 = {
+		death = yes
+	}
+}
+
+lazaran_thundarael_361 = {
+	name = "Lazaran"
+	dna = nictheras_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 15
+	intrigue = 9
+	stewardship = 10
+	learning = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = diligent
+	trait = just
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = tanis_thundarael_361
+	
+	154.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	304.1.1 = {
+		death = yes
+	}
+}
+
+lazaran_thundarael_476 = {
+	name = "Lazaran"
+	dna = nictheras_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 15
+	intrigue = 9
+	stewardship = 10
+	learning = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = diligent
+	trait = just
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	362.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	420.1.1 = {
+		death = yes
+	}
+}
+
+elmera_thundarael_361 = {
+	name = "Elmera"
+	dna = elysia_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = brave
+	trait = forgiving
+	trait = fickle
+	trait = education_stewardship_4
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_matron
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = tanis_thundarael_361
+	
+	194.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	304.1.1 = {
+		death = yes
+	}
+}
+
+elmera_thundarael_476 = {
+	name = "Elmera"
+	dna = elysia_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = brave
+	trait = forgiving
+	trait = fickle
+	trait = education_stewardship_4
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_matron
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = tanis_thundarael_476
+	
+	362.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	419.1.1 = {
+		death = yes
+	}
+}
+
+felna_thundarael_361 = {
+	name = "Felna"
+	dna = nictheras_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 15
+	intrigue = 9
+	stewardship = 10
+	learning = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = diligent
+	trait = just
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = lazaran_thundarael_361
+
+	259.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	301.1.1 = {
+		death = yes
+	}
+}
+
+felna_thundarael_476 = {
+	name = "Felna"
+	dna = nictheras_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 15
+	intrigue = 9
+	stewardship = 10
+	learning = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = diligent
+	trait = just
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = lazaran_thundarael_476
+
+	375.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	420.1.1 = {
+		death = yes
+	}
+}
+
+aris_thundarael_361 = {
+	name = "Aris"
+	dna = tyria_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = impatient
+	trait = trusting
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = tanis_thundarael_361
+
+	194.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	314.1.1 = {
+		death = yes
+	}
+}
+
+aris_thundarael_476 = {
+	name = "Aris"
+	dna = tyria_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = impatient
+	trait = trusting
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = tanis_thundarael_476
+
+	362.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	429.1.1 = {
+		death = yes
+	}
+}
+
+melony_thundarael_361 = {
+	name = "Melony"
+	dna = taliana_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = compassionate
+	trait = trusting
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = faelyn_valerith_361
+	mother = aris_thundarael_361
+
+	294.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	346.1.1 = {
+		death = yes
+	}
+}
+
+melony_thundarael_476 = {
+	name = "Melony"
+	dna = taliana_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = compassionate
+	trait = trusting
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = faelyn_valerith_476
+	mother = aris_thundarael_476
+
+	362.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	464.1.1 = {
+		death = yes
+	}
+}
+
+# ====
+
+heldrin_thundarael_361 = {
+	name = "Heldrin"
+	dna = heldrin_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = calm
+	trait = shy
+	trait = arbitrary
+	trait = education_learning_5
+	trait = intellect_good_3
+	trait = lunatic_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = felna_thundarael_361
+	
+	332.1.1 = {
+		birth = yes
+		give_nickname = nick_the_mad_mage		
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+heldrin_thundarael_476 = {
+	name = "Heldrin"
+	dna = heldrin_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = calm
+	trait = shy
+	trait = arbitrary
+	trait = education_learning_5
+	trait = intellect_good_3
+	trait = lunatic_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = felna_thundarael_476
+	
+	447.1.1 = {
+		birth = yes
+		give_nickname = nick_the_mad_mage		
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+fera_thundarael_361 = {
+	name = "Fera"
+	dna = fera_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 7
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 12
+	learning = 17
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = curious
+	trait = calm
+	trait = generous
+	trait = patient
+	trait = education_learning_5
+	trait = intellect_good_3
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = heldrin_thundarael_361
+	
+	354.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+fera_thundarael_476 = {
+	name = "Fera"
+	dna = fera_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 7
+	diplomacy = 9
+	intrigue = 10
+	stewardship = 12
+	learning = 17
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = curious
+	trait = calm
+	trait = generous
+	trait = patient
+	trait = education_learning_5
+	trait = intellect_good_3
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = heldrin_thundarael_476
+	
+	469.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+celestia_thundarael_361 = {
+	name = "Celestia"
+	dna = celestia_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = vengeful
+	trait = just
+	trait = calm
+	trait = education_learning_5
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = felna_thundarael_361
+	
+	330.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	360.1.1 = {
+		employer = nictheras_thundarael_361
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+celestia_thundarael_476 = {
+	name = "Celestia"
+	dna = celestia_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = vengeful
+	trait = just
+	trait = calm
+	trait = education_learning_5
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	mother = felna_thundarael_476
+	
+	447.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	474.1.1 = {
+		employer = nictheras_thundarael_476
+	}
+}
+
+adam_thundarael_361 = {
+	name = "Adam"
+	dna = adam_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 10
+	intrigue = 11
+	stewardship = 7
+	learning = 9
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = arrogant
+	trait = patient
+	trait = calm
+	trait = education_intrigue_3
+	trait = intellect_good_1
+	trait = beauty_good_2
+	trait = magic_talent_1
+	trait = royal_elf_thundarael
+	trait = twin
+	trait = witch
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	father = faelyn_valerith_361
+	mother = aris_thundarael_361
+
+	331.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	359.1.1 = {
+		set_relation_lover = character:freyja_thundarael_361
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+adam_thundarael_476 = {
+	name = "Adam"
+	dna = adam_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 10
+	intrigue = 11
+	stewardship = 7
+	learning = 9
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = arrogant
+	trait = patient
+	trait = calm
+	trait = education_intrigue_3
+	trait = intellect_good_1
+	trait = beauty_good_2
+	trait = magic_talent_1
+	trait = royal_elf_thundarael
+	trait = twin
+	trait = witch
+	
+	disallow_random_traits = yes
+	
+	father = faelyn_valerith_476
+	mother = aris_thundarael_476
+
+	446.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	474.1.1 = {
+		set_relation_lover = character:freyja_thundarael_476
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+freyja_thundarael_361 = {
+	name = "Freyja"
+	dna = freyja_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 12
+	intrigue = 7
+	stewardship = 7
+	learning = 9
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = humble
+	trait = patient
+	trait = lustful
+	trait = education_diplomacy_3
+	trait = intellect_good_1
+	trait = beauty_good_3
+	trait = magic_talent_1
+	trait = royal_elf_valerith
+	trait = aeluran_sister
+	trait = twin
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = faelyn_valerith_361
+	mother = aris_thundarael_361
+	
+	331.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+freyja_thundarael_476 = {
+	name = "Freyja"
+	dna = freyja_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 12
+	intrigue = 7
+	stewardship = 7
+	learning = 9
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = humble
+	trait = patient
+	trait = lustful
+	trait = education_diplomacy_3
+	trait = intellect_good_1
+	trait = beauty_good_3
+	trait = magic_talent_1
+	trait = royal_elf_valerith
+	trait = aeluran_sister
+	trait = twin
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = faelyn_valerith_476
+	mother = aris_thundarael_476
+	
+	446.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+nictheras_thundarael_361 = {
+	name = "Nic'theras"
+	dna = nictheras_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 15
+	intrigue = 9
+	stewardship = 10
+	learning = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = diligent
+	trait = just
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	father = lazaran_thundarael_361
+
+	254.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_high_elf
+		}
+	}
+
+	294.1.1 = {
+		add_spouse = elysia_thundarael_361
+	}
+
+
+	# 866.1.1 = {
+	# 	employer = 34014
+	# }
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+nictheras_thundarael_476 = {
+	name = "Nic'theras"
+	dna = nictheras_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 15
+	intrigue = 9
+	stewardship = 10
+	learning = 15
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = diligent
+	trait = just
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	father = lazaran_thundarael_476
+
+	376.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_high_elf
+		}
+	}
+
+	410.1.1 = {
+		add_spouse = elysia_thundarael_476
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+elysia_thundarael_361 = {
+	name = "Elysia"
+	dna = elysia_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = lustful
+	trait = forgiving
+	trait = calm
+	trait = education_stewardship_4
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_matron
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	mother = elmera_thundarael_361
+
+	294.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+elysia_thundarael_476 = {
+	name = "Elysia"
+	dna = elysia_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = lustful
+	trait = forgiving
+	trait = calm
+	trait = education_stewardship_4
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_matron
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = elmera_thundarael_476
+		
+	420.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+arandur_thundarael_361 = {
+	name = "Arandur"
+	dna = arandur_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 8
+	intrigue = 9
+	stewardship = 12
+	learning = 16
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = trusting
+	trait = content
+	trait = shy
+	trait = education_learning_4
+	trait = intellect_good_3
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = lazaran_thundarael_361
+	
+	274.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+arandur_thundarael_476 = {
+	name = "Arandur"
+	dna = arandur_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 8
+	intrigue = 9
+	stewardship = 12
+	learning = 16
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = trusting
+	trait = content
+	trait = shy
+	trait = education_learning_4
+	trait = intellect_good_3
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = lazaran_thundarael_476
+	
+	396.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+nolan_thundarael_361 = {
+	name = "Nolan"
+	dna = nictheras_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 13
+	diplomacy = 11
+	intrigue = 7
+	stewardship = 7
+	learning = 10
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = brave
+	trait = just
+	trait = gregarious
+	trait = education_martial_4
+	trait = intellect_good_2
+	trait = physique_good_1
+	trait = magic_talent_1
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	father = nictheras_thundarael_361
+	mother = elysia_thundarael_361
+
+	324.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+nolan_thundarael_476 = {
+	name = "Nolan"
+	dna = nictheras_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 13
+	diplomacy = 11
+	intrigue = 7
+	stewardship = 7
+	learning = 10
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = brave
+	trait = just
+	trait = gregarious
+	trait = education_martial_4
+	trait = intellect_good_2
+	trait = physique_good_1
+	trait = magic_talent_1
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	father = nictheras_thundarael_476
+	mother = elysia_thundarael_476
+
+	439.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+lyra_thundarael_361 = {
+	name = "Lyra"
+	dna = lyra_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 5
+	diplomacy = 12
+	intrigue = 5
+	stewardship = 5
+	learning = 10
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = trusting
+	trait = impatient
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_1
+	trait = beauty_good_3
+	trait = magic_talent_1
+	trait = royal_elf_thundarael
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = nictheras_thundarael_361
+	mother = elysia_thundarael_361
+	
+	331.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+lyra_thundarael_476 = {
+	name = "Lyra"
+	dna = lyra_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 5
+	diplomacy = 12
+	intrigue = 5
+	stewardship = 5
+	learning = 10
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = trusting
+	trait = impatient
+	trait = gregarious
+	trait = education_diplomacy_4
+	trait = intellect_good_1
+	trait = beauty_good_3
+	trait = magic_talent_1
+	trait = royal_elf_thundarael
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = nictheras_thundarael_476
+	mother = elysia_thundarael_476
+	
+	446.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+taliana_thundarael_361 = {
+	name = "Taliana"
+	dna = taliana_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 11
+	diplomacy = 5
+	intrigue = 11
+	stewardship = 5
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = sadistic
+	trait = fickle
+	trait = calm
+	trait = education_martial_2
+	trait = intellect_good_3
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = lunatic_1
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = melony_thundarael_361
+	
+	343.1.1 = {
+		birth = yes
+		give_nickname = nick_the_tormentor		
+	}
+
+	360.1.1 = {
+		set_relation_lover = character:heldrin_thundarael_361
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+taliana_thundarael_476 = {
+	name = "Taliana"
+	dna = taliana_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 11
+	diplomacy = 5
+	intrigue = 11
+	stewardship = 5
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = sadistic
+	trait = fickle
+	trait = calm
+	trait = education_martial_2
+	trait = intellect_good_3
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = lunatic_1
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	mother = melony_thundarael_476
+	
+	458.1.1 = {
+		birth = yes
+		give_nickname = nick_the_tormentor		
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	475.1.1 = {
+		set_relation_lover = character:heldrin_thundarael_476
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+tyria_thundarael_361 = {
+	name = "Tyria"
+	dna = tyria_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = compassionate
+	trait = trusting
+	trait = eccentric
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	mother = melony_thundarael_361
+
+	341.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+tyria_thundarael_476 = {
+	name = "Tyria"
+	dna = tyria_thundarael
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 13
+	learning = 19
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = compassionate
+	trait = trusting
+	trait = eccentric
+	trait = education_diplomacy_4
+	trait = intellect_good_2
+	trait = beauty_good_1
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	mother = melony_thundarael_476
+
+	456.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+thrandire_thundarael_361 = {
+	name = "Thrandirë"
+	dna = thrandire_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 10
+	learning = 12
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = diligent
+	trait = just
+	trait = zealous
+	trait = education_learning_3
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	mother = melony_thundarael_361
+
+	337.1.1 = {
+		birth = yes
+		give_nickname = nick_the_zealot		
+		effect = {
+			set_immortal_age = 25
+			add_character_flag = race_elf
+		}
+	}
+
+	357.1.1 = {
+		add_spouse = tyria_thundarael_361
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+thrandire_thundarael_476 = {
+	name = "Thrandirë"
+	dna = thrandire_thundarael
+	female = no
+	sexuality = heterosexual
+	dynasty = 696974
+	martial = 6
+	diplomacy = 12
+	intrigue = 9
+	stewardship = 10
+	learning = 12
+	religion = "aeluran_weavers"
+	culture = "elf_culture_thundarael"
+	trait = diligent
+	trait = just
+	trait = zealous
+	trait = education_learning_3
+	trait = intellect_good_2
+	trait = beauty_good_2
+	trait = magic_talent_3
+	trait = royal_elf_thundarael
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	
+	mother = melony_thundarael_476
+
+	452.1.1 = {
+		birth = yes
+		give_nickname = nick_the_zealot			
+		effect = {
+			set_immortal_age = 25	
+			add_character_flag = race_elf
+		}
+	}
+
+	472.1.1 = {
+		add_spouse = tyria_thundarael_476
+	}
+
+	566.1.1 = {
+		death = yes
+	}
+}
+
+

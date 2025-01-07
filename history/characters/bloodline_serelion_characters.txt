@@ -1,0 +1,1558 @@
+﻿### Serelion ###
+
+malfurian_serelion_361 = {
+	name = "Malfurian"
+	dna = meldrid_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 10
+	diplomacy = 11
+	intrigue = 17
+	stewardship = 10
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = calm
+	trait = arrogant
+	trait = ambitious
+	trait = education_intrigue_4
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+
+	99.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 50
+			add_character_flag = race_high_elf
+		}
+	}
+
+	294.1.1 = {
+		death = yes
+	}
+}
+
+malfurian_serelion_476 = {
+	name = "Malfurian"
+	dna = meldrid_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 10
+	diplomacy = 11
+	intrigue = 17
+	stewardship = 10
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = calm
+	trait = arrogant
+	trait = ambitious
+	trait = education_intrigue_4
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	362.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 50
+			add_character_flag = race_high_elf
+		}
+	}
+
+	430.1.1 = {
+		death = yes
+	}
+}
+
+maldrik_serelion_361 = {
+	name = "Maldrik"
+	dna = meldrid_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 10
+	diplomacy = 11
+	intrigue = 17
+	stewardship = 10
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = calm
+	trait = arrogant
+	trait = ambitious
+	trait = education_intrigue_4
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = malfurian_serelion_361
+
+	283.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	344.1.1 = {
+		death = yes
+	}
+}
+
+maldrik_serelion_476 = {
+	name = "Maldrik"
+	dna = meldrid_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 10
+	diplomacy = 11
+	intrigue = 17
+	stewardship = 10
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = calm
+	trait = arrogant
+	trait = ambitious
+	trait = education_intrigue_4
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = malfurian_serelion_476
+
+	390.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+
+	460.1.1 = {
+		death = yes
+	}
+}
+
+
+hallendar_serelion_361 = {
+	name = "Hallendar"
+	dna = hallendar_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 10
+	diplomacy = 11
+	intrigue = 17
+	stewardship = 10
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = deceitful
+	trait = patient
+	trait = callous
+	trait = education_intrigue_4
+	trait = beauty_good_1
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = malfurian_serelion_361
+
+	285.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+	354.1.1 = {
+		employer = marco_serelion_361
+	}
+	394.1.1 = {
+		death = yes
+	}
+}
+
+hallendar_serelion_476 = {
+	name = "Hallendar"
+	dna = hallendar_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 10
+	diplomacy = 11
+	intrigue = 17
+	stewardship = 10
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = deceitful
+	trait = patient
+	trait = callous
+	trait = education_intrigue_4
+	trait = beauty_good_1
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = malfurian_serelion_476
+
+	401.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+	
+	470.1.1 = {
+		employer = marco_serelion_476
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+
+saevel_serelion_361 = {
+	name = "Saevel"
+	dna = saevel_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 10
+	diplomacy = 11
+	intrigue = 17
+	stewardship = 10
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = calm
+	trait = patient
+	trait = zealous
+	trait = education_intrigue_4
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = malfurian_serelion_361
+
+	287.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+	354.1.1 = {
+		employer = meldona_serelion
+	}
+
+	394.1.1 = {
+		death = yes
+	}
+}
+
+saevel_serelion_476 = {
+	name = "Saevel"
+	dna = saevel_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 10
+	diplomacy = 11
+	intrigue = 17
+	stewardship = 10
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = calm
+	trait = patient
+	trait = zealous
+	trait = education_intrigue_4
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = malfurian_serelion_476
+
+	403.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 30
+			add_character_flag = race_elf
+		}
+	}
+	475.1.1 = {
+		employer = meldona_serelion_476
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+
+meldona_serelion_361 = {
+	name = "Meldona"
+	dna = meldona_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 8
+	diplomacy = 14
+	intrigue = 17
+	stewardship = 10
+	learning = 12
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = calm
+	trait = arrogant
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = beauty_good_3
+	trait = magic_talent_1
+	trait = fecund
+	trait = royal_elf_serelion
+	trait = aeluran_matron
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = maldrik_serelion_361
+
+	340.1.1 = {
+		birth = yes
+		give_nickname = nick_the_meticulous		
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	359.1.1 = {
+		# vassal_contract_set_obligation_level = {
+		# 	type = religious_rights 
+		# 	level = 1
+		# }
+		# vassal_contract_set_obligation_level = {
+		# 	type = title_revocation_rights
+		# 	level = 1
+		# }
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+meldona_serelion_476 = {
+	name = "Meldona"
+	dna = meldona_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696972
+
+	martial = 8
+	diplomacy = 14
+	intrigue = 17
+	stewardship = 10
+	learning = 12
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = calm
+	trait = arrogant
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = beauty_good_3
+	trait = magic_talent_1
+	trait = fecund
+	trait = royal_elf_serelion
+	trait = aeluran_matron
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	father = maldrik_serelion_476
+
+	455.1.1 = {
+		birth = yes
+		give_nickname = nick_the_meticulous		
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	475.1.1 = {
+		# vassal_contract_set_obligation_level = {
+		# 	type = religious_rights 
+		# 	level = 1
+		# }
+		# vassal_contract_set_obligation_level = {
+		# 	type = title_revocation_rights
+		# 	level = 1
+		# }
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+meldrid_serelion_361 = {
+	name = "Meldrid"
+	dna = meldrid_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+
+	martial = 10
+	diplomacy = 11
+	intrigue = 17
+	stewardship = 10
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	# trait = calm
+	# trait = arrogant
+	# trait = ambitious
+	# trait = education_intrigue_4
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = royal_elf_serelion
+	
+	disallow_random_traits = yes
+
+	mother = meldona_serelion_361
+
+	360.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+meldrid_serelion_476 = {
+	name = "Meldrid"
+	dna = meldrid_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+
+	martial = 10
+	diplomacy = 11
+	intrigue = 17
+	stewardship = 10
+	learning = 11
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	# trait = calm
+	# trait = arrogant
+	# trait = ambitious
+	# trait = education_intrigue_4
+	trait = beauty_good_2
+	trait = intellect_good_2
+	trait = magic_talent_2
+	trait = royal_elf_serelion
+	
+	disallow_random_traits = yes
+
+	mother = meldona_serelion_476
+
+	475.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	651.1.1 = {
+		death = yes
+	}
+}
+
+selene_serelion_361 = {
+	name = "Selene"
+	dna = selene_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696972
+
+	martial = 8
+	diplomacy = 14
+	intrigue = 17
+	stewardship = 10
+	learning = 9
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = arbitrary
+	trait = ambitious
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = beauty_good_3
+	trait = magic_talent_1
+	trait = intellect_good_1
+	trait = royal_elf_serelion
+	trait = aeluran_sister
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = maldrik_serelion_361
+
+	342.1.1 = {
+		birth = yes
+		give_nickname = nick_the_merciless		
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	359.1.1 = {
+		# employer = belanor_valerith
+	}
+
+	451.1.1 = {
+		death = yes
+	}
+}
+
+selene_serelion_476 = {
+	name = "Selene"
+	dna = selene_serelion
+	female = yes
+	sexuality = heterosexual
+
+	dynasty = 696972
+	martial = 8
+	diplomacy = 14
+	intrigue = 17
+	stewardship = 10
+	learning = 9
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = arbitrary
+	trait = ambitious
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = beauty_good_3
+	trait = magic_talent_1
+	trait = intellect_good_1
+	trait = royal_elf_serelion
+	trait = aeluran_sister
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+	father = maldrik_serelion_476
+
+	457.1.1 = {
+		birth = yes
+		give_nickname = nick_the_merciless		
+		effect = {
+			add_character_flag = race_elf
+		}
+	}
+
+	475.1.1 = {
+		# employer = belanor_valerith_476
+	}
+
+	567.1.1 = {
+		death = yes
+	}
+}
+
+
+
+# Dead Father linking character
+aurelius_serelion_361 = {
+	name = "Aurelius"
+	dna = julius_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 15
+	diplomacy = 15
+	intrigue = 5
+	stewardship = 8
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = wrathful
+	trait = callous
+	trait = ambitious
+	trait = education_martial_5
+	trait = beauty_good_2
+	trait = scarred
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	294.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 25
+			add_character_flag = race_elf
+		}
+	}
+
+	356.1.1 = {
+		death = yes
+	}
+}
+
+aurelius_serelion_476 = {
+	name = "Aurelius"
+	dna = julius_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 15
+	diplomacy = 15
+	intrigue = 5
+	stewardship = 8
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = wrathful
+	trait = callous
+	trait = ambitious
+	trait = education_martial_5
+	trait = beauty_good_2
+	trait = scarred
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	410.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 25
+			add_character_flag = race_elf
+		}
+	}
+
+	470.1.1 = {
+		death = yes
+	}
+}
+
+
+julius_serelion_361 = {
+	name = "Julius"
+	dna = julius_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 13
+	diplomacy = 10
+	intrigue = 3
+	stewardship = 11
+	learning = 6
+	prowess  = 10
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = brave
+	trait = arbitrary
+	trait = cynical
+	trait = education_martial_5
+	trait = beauty_good_2
+	trait = scarred
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = aurelius_serelion_361
+
+	331.1.1 = {
+		birth = yes
+		give_nickname = nick_the_father_culture		
+		effect = {
+			set_immortal_age = 25
+			add_character_flag = race_high_elf
+		}
+	}
+
+	356.1.1 = {
+		add_spouse = antigoni_serelion_361
+		effect = {
+			set_relation_lover = character:antigoni_serelion_361
+			# vassal_contract_set_obligation_level = {
+			# 	type = religious_rights 
+			# 	level = 1
+			# }
+			# vassal_contract_set_obligation_level = {
+			# 	type = title_revocation_rights
+			# 	level = 1
+			# }
+		}
+	}
+
+	394.1.1 = {
+		death = yes
+	}
+}
+
+julius_serelion_476 = {
+	name = "Julius"
+	dna = julius_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 13
+	diplomacy = 10
+	intrigue = 3
+	stewardship = 11
+	learning = 6
+	prowess  = 10
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = brave
+	trait = arbitrary
+	trait = cynical
+	trait = education_martial_5
+	trait = beauty_good_2
+	trait = scarred
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = aurelius_serelion_476
+
+	446.1.1 = {
+		birth = yes
+		give_nickname = nick_the_father_culture		
+		effect = {
+			set_immortal_age = 25
+			add_character_flag = race_high_elf
+		}
+	}
+
+	470.1.1 = {
+		add_spouse = antigoni_serelion_476
+		effect = {
+			set_relation_lover = character:antigoni_serelion_476
+			# vassal_contract_set_obligation_level = {
+			# 	type = religious_rights 
+			# 	level = 1
+			# }
+			# vassal_contract_set_obligation_level = {
+			# 	type = title_revocation_rights
+			# 	level = 1
+			# }
+		}
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+marco_serelion_361 = {
+	name = "Marco"
+	dna = marco_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 6
+	diplomacy = 13
+	intrigue = 12
+	stewardship = 6
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = lustful
+	trait = callous
+	trait = gregarious
+	trait = education_intrigue_4
+	trait = beauty_good_2
+	trait = seducer
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = aurelius_serelion_361
+
+	335.1.1 = {
+		birth = yes
+		give_nickname = nick_the_deceiver		
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	356.1.1 = {
+		add_spouse = sofia_serelion_361
+		effect = {
+			set_relation_lover = character:sofia_serelion_361
+		}
+	}
+
+	394.1.1 = {
+		death = yes
+	}
+}
+
+marco_serelion_476 = {
+	name = "Marco"
+	dna = marco_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 6
+	diplomacy = 13
+	intrigue = 12
+	stewardship = 6
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = lustful
+	trait = callous
+	trait = gregarious
+	trait = education_intrigue_4
+	trait = beauty_good_2
+	trait = seducer
+	trait = royal_elf_serelion
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+	father = aurelius_serelion_476
+
+	450.1.1 = {
+		birth = yes
+		give_nickname = nick_the_deceiver		
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	470.1.1 = {
+		add_spouse = sofia_serelion_476
+		effect = {
+			set_relation_lover = character:sofia_serelion_476
+		}
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+kylie_serelion_361 = {
+	name = "Kylie"
+	dna = kylie_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 6
+	diplomacy = 15
+	intrigue = 11
+	stewardship = 6
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = lustful
+	trait = cynical
+	trait = gregarious
+	trait = charming
+	trait = beauty_good_2
+	trait = seducer
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = aurelius_serelion_361
+
+	347.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	354.1.1 = {
+		employer = julius_serelion_361
+		effect = {
+			create_betrothal = character:hallendar_serelion_361
+		}
+	}
+
+	394.1.1 = {
+		death = yes
+	}
+}
+
+kylie_serelion_476 = {
+	name = "Kylie"
+	dna = kylie_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 6
+	diplomacy = 15
+	intrigue = 11
+	stewardship = 6
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = lustful
+	trait = cynical
+	trait = gregarious
+	trait = charming
+	trait = beauty_good_2
+	trait = seducer
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = aurelius_serelion_476
+
+	464.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	470.1.1 = {
+		employer = julius_serelion_476
+		effect = {
+			create_betrothal = character:hallendar_serelion_476
+		}
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+# Mother Linking character
+delfie_serelion_361 = {
+	name = "Delfie"
+	dna = antigoni_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 6
+	diplomacy = 7
+	intrigue = 13
+	stewardship = 6
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = eccentric
+	trait = ambitious
+	trait = generous
+	trait = education_intrigue_4
+	trait = intellect_good_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	276.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	354.1.1 = {
+		death = yes
+	}
+}
+
+delfie_serelion_476 = {
+	name = "Delfie"
+	dna = antigoni_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 6
+	diplomacy = 7
+	intrigue = 13
+	stewardship = 6
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = eccentric
+	trait = ambitious
+	trait = generous
+	trait = education_intrigue_4
+	trait = intellect_good_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	395.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	470.1.1 = {
+		death = yes
+	}
+}
+
+# Julius Spouse
+antigoni_serelion_361 = {
+	name = "Antigoni"
+	dna = antigoni_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 6
+	diplomacy = 7
+	intrigue = 13
+	stewardship = 6
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = callous
+	trait = ambitious
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = intellect_good_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = delfie_serelion_361
+
+	342.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	354.1.1 = {
+		employer = julius_serelion_361
+	}
+
+	394.1.1 = {
+		death = yes
+	}
+}
+
+antigoni_serelion_476 = {
+	name = "Antigoni"
+	dna = antigoni_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 6
+	diplomacy = 7
+	intrigue = 13
+	stewardship = 6
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = callous
+	trait = ambitious
+	trait = deceitful
+	trait = education_intrigue_4
+	trait = intellect_good_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = delfie_serelion_476
+
+	457.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	470.1.1 = {
+		employer = julius_serelion_476
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+sofia_serelion_361 = {
+	name = "Sofia"
+	dna = sofia_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 9
+	diplomacy = 7
+	intrigue = 11
+	stewardship = 9
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = diligent
+	trait = arrogant
+	trait = impatient
+	trait = education_intrigue_4
+	trait = intellect_good_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = delfie_serelion_361
+
+	345.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	354.1.1 = {
+		employer = marco_serelion_361
+	}
+
+	394.1.1 = {
+		death = yes
+	}
+}
+
+sofia_serelion_476 = {
+	name = "Sofia"
+	dna = sofia_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty_house = house_hyperion
+	martial = 9
+	diplomacy = 7
+	intrigue = 11
+	stewardship = 9
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = diligent
+	trait = arrogant
+	trait = impatient
+	trait = education_intrigue_4
+	trait = intellect_good_2
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	mother = delfie_serelion_476
+
+	460.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	470.1.1 = {
+		employer = marco_serelion_476
+	}
+
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+
+aubrey_serelion_361 = {
+	name = "Aubrey"
+	dna = aubrey_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 11
+	diplomacy = 15
+	intrigue = 15
+	stewardship = 10
+	learning = 10
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = eccentric
+	trait = lustful
+	trait = arbitrary
+	trait = education_intrigue_5
+	trait = beauty_good_3
+	trait = intellect_good_2
+	trait = magic_talent_3
+	trait = royal_elf_serelion
+	trait = aeluran_sister
+	trait = magi
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	284.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_high_elf
+		}
+	}
+
+	353.1.1 = {
+		add_spouse = cain_serelion_361
+		effect = {
+			set_relation_lover = character:cain_serelion_361
+		}
+	}
+
+	394.1.1 = {
+		death = yes
+	}
+}
+
+aubrey_serelion_476 = {
+	name = "Aubrey"
+	dna = aubrey_serelion
+	female = yes
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 11
+	diplomacy = 15
+	intrigue = 15
+	stewardship = 10
+	learning = 10
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = eccentric
+	trait = lustful
+	trait = arbitrary
+	trait = education_intrigue_5
+	trait = beauty_good_3
+	trait = intellect_good_2
+	trait = magic_talent_3
+	trait = royal_elf_serelion
+	trait = aeluran_sister
+	trait = magi
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	401.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_high_elf
+		}
+	}
+
+	469.1.1 = {
+		add_spouse = cain_serelion_476
+		effect = {
+			set_relation_lover = character:cain_serelion_476
+		}
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+
+# Father linking character
+caldonin_serelion_361 = {
+	name = "Caldonin"
+	dna = cain_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 10
+	diplomacy = 7
+	intrigue = 16
+	stewardship = 6
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = ambitious
+	trait = zealous
+	trait = calm
+	trait = education_intrigue_4
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+
+	274.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	354.1.1 = {
+		death = yes
+	}
+}
+
+caldonin_serelion_476 = {
+	name = "Caldonin"
+	dna = cain_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 10
+	diplomacy = 7
+	intrigue = 16
+	stewardship = 6
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = ambitious
+	trait = zealous
+	trait = calm
+	trait = education_intrigue_4
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = royal_elf_serelion
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+
+	450.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+
+cain_serelion_361 = {
+	name = "Cain"
+	dna = cain_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 10
+	diplomacy = 7
+	intrigue = 16
+	stewardship = 6
+	learning = 13
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = ambitious
+	trait = zealous
+	trait = sadistic
+	trait = education_intrigue_4
+	trait = intellect_good_2
+	trait = magic_talent_1
+	trait = seducer
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = caldonin_serelion_361
+
+	335.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	354.1.1 = {
+		# employer = aubrey_serelion
+	}
+
+	394.1.1 = {
+		death = yes
+	}
+}
+
+cain_serelion_476 = {
+	name = "Marco"
+	dna = marco_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 6
+	diplomacy = 13
+	intrigue = 12
+	stewardship = 6
+	learning = 5
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = lustful
+	trait = callous
+	trait = gregarious
+	trait = education_intrigue_4
+	trait = beauty_good_2
+	trait = seducer
+	trait = royal_elf_serelion
+	trait = elven_immortality
+
+	disallow_random_traits = yes
+	father = caldonin_serelion_476
+
+	450.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 20
+			add_character_flag = race_elf
+		}
+	}
+
+	470.1.1 = {
+		# employer = aubrey_serelion_476
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}
+
+anatole_serelion_361 = {
+	name = "Anatole"
+	dna = anatole_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 15
+	diplomacy = 11
+	intrigue = 6
+	stewardship = 6
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = diligent
+	trait = wrathful
+	trait = arrogant
+	trait = education_martial_5
+	trait = beauty_good_2
+	trait = scarred
+	trait = strategist
+	trait = royal_elf_serelion
+	trait = elven_immortality
+	
+	disallow_random_traits = yes
+	father = caldonin_serelion_361
+
+	329.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 25
+			add_character_flag = race_elf
+		}
+	}
+
+	354.1.1 = {
+		# employer = aubrey_serelion
+	}
+
+	394.1.1 = {
+		death = yes
+	}
+}
+
+anatole_serelion_476 = {
+	name = "Anatole"
+	dna = anatole_serelion
+	female = no
+	sexuality = heterosexual
+	dynasty = 696972
+	martial = 15
+	diplomacy = 11
+	intrigue = 6
+	stewardship = 6
+	learning = 8
+	religion = "aeluran_weavers"
+	culture = "elf_culture_serelion"
+	trait = diligent
+	trait = wrathful
+	trait = arrogant
+	trait = education_martial_5
+	trait = beauty_good_2
+	trait = scarred
+	trait = strategist
+	trait = royal_elf_serelion
+	trait = elven_immortality
+		
+	disallow_random_traits = yes
+	father = caldonin_serelion_476
+
+	444.1.1 = {
+		birth = yes
+		effect = {
+			set_immortal_age = 25
+			add_character_flag = race_elf
+		}
+	}
+
+	470.1.1 = {
+		# employer = aubrey_serelion_476
+	}
+
+	510.1.1 = {
+		death = yes
+	}
+}

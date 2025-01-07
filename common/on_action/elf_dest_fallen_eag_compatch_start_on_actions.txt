@@ -1,0 +1,50 @@
+﻿on_game_start = { 
+    on_actions = {
+        elf_destiny_fallen_eagle_on_game_start 
+    } 
+} 
+
+elf_destiny_fallen_eagle_on_game_start = {
+	effect = {
+		if = {
+			limit = {
+				exists = character:belanor_valerith_361
+			}
+	
+			create_vanas_foeglass_effect = { OWNER = character:belanor_valerith_361 }
+		}
+		if = {
+			limit = {
+				exists = character:belanor_valerith_476
+			}
+	
+			create_vanas_foeglass_effect = { OWNER = character:belanor_valerith_476 }
+		}
+
+
+
+		# LANDLESS CAMP SETUP
+		character:belanor_valerith_361 = {
+			add_courtier = character:elros_daelurin_361
+		}
+		character:belanor_valerith_476 = {
+			add_courtier = character:elros_daelurin_476
+		}
+
+		character:heldrin_thundarael_361 = {
+			add_courtier = character:taliana_thundarael_361
+		}
+		character:heldrin_thundarael_476 = {
+			add_courtier = character:taliana_thundarael_476
+		}
+
+		character:aubrey_serelion_361 = {
+			add_courtier = character:cain_serelion_361
+			add_courtier = character:anatole_serelion_361
+		}
+		character:aubrey_serelion_476 = {
+			add_courtier = character:cain_serelion_476
+			add_courtier = character:anatole_serelion_476
+		}
+	}
+}
